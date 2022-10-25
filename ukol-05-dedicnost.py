@@ -38,4 +38,3 @@ print(corona) # 'Jmeno: Coronavirus (varianty: omikron, delta)'
 corona.pridej_variantu('alpha')
 print(corona) # 'Jmeno: Coronavirus (varianty: omikron, delta, alpha)'
 print(corona.zmen_pocet_obeti(6000))
-print(corona.zmen_pocet_obeti(80000))
